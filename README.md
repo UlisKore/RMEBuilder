@@ -33,8 +33,7 @@ Ce lien sera mémorisé au prochain démarrage, vous pouvez à tout moment le v�
 
 ## Utilisation
 
-Partie en cours de rédaction. : )
-
+Partie en cours de rédaction. : ) vous pouvez regarder : https://youtu.be/FdTdr9Jw7qA
 
 ## Packager un script
 Pour qu'un script puisse être lu par RMEBuilder, il lui faut un schema, qui se nomme `package.rb`. Vous pouvez vous inspirer du [schéma de RME](https://raw.githubusercontent.com/RMEx/RME/master/src/package.rb) où de celui du [Display text](https://raw.githubusercontent.com/nukiFW/RPGMaker/master/DisplayText/package.rb) (qui introduit des dépendances). Un scripteur n'aura pas trop de mal à comprendre son fonctionnement.
